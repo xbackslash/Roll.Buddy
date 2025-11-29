@@ -47,7 +47,7 @@ Keyboard shortcuts for quick rolling:
 	Esc: Close app
 
 *******************
-<img width="946" height="533" alt="Screenshot 2025-11-29 001135" src="https://github.com/user-attachments/assets/26e58011-c90b-4cf4-9ca4-b2fd55860023" />
+<img width="943" height="212" alt="Screenshot 2025-11-29 001135" src="https://github.com/user-attachments/assets/bf467c0f-f9b5-4513-adba-0552e4b4fda0" />
 *******************
 
 
