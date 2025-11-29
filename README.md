@@ -1,6 +1,8 @@
 ROLL.BUDDY - README
 
+<img width="502" height="631" alt="Screenshot 2025-11-29 000831" src="https://github.com/user-attachments/assets/3b66631f-96de-4d9f-9ef1-eb309f3e22ef" />
 
+<img width="502" height="631" alt="Screenshot 2025-11-29 000958" src="https://github.com/user-attachments/assets/4b41612b-b7e5-4b1a-83fb-e43379d3b2ae" />
 
 A simple dice and coin rolling app for casual tabletop gaming and fun.
 
@@ -40,6 +42,8 @@ Keyboard shortcuts for quick rolling:
 
 	Esc: Close app
 
+
+<img width="946" height="533" alt="Screenshot 2025-11-29 001135" src="https://github.com/user-attachments/assets/26e58011-c90b-4cf4-9ca4-b2fd55860023" />
 
 
 
